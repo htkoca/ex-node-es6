@@ -1,0 +1,27 @@
+{
+  "name": "tmpl-generic",
+  "version": "1.0.0",
+  "description": "Generic Repo Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htkoca/utils-template.git"
+  },
+  "keywords": [
+    "Generic",
+    "Repo",
+    "Template"
+  ],
+  "gallery": [
+    "test.png"
+  ],
+  "author": "Tony Ko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htkoca/utils-template/issues"
+  },
+  "homepage": "https://github.com/htkoca/utils-template#readme"
+}
