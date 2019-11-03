@@ -1,2 +1,2 @@
 # tmpl-gitrepo
-Generic Repo Template
+Git Repo Template
