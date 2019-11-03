@@ -1,2 +1,2 @@
 # utils-template
-Github Repo Template
+Generic Repo Template
