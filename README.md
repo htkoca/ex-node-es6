@@ -1,2 +1,2 @@
-# utils-template
+# tmpl-gitrepo
 Generic Repo Template
